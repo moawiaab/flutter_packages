@@ -13,3 +13,5 @@
 ## [Infinite Scroll Pagination](https://pub.dev/packages/infinite_scroll_pagination)
 ## [dots_indicator](https://pub.dev/packages/dots_indicator)
 ## [Jiffy time](https://pub.dev/packages/jiffy)
+
+## [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
