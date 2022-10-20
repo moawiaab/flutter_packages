@@ -2,9 +2,10 @@
 [Json To Dart](https://javiercbk.github.io/json_to_dart/)
 # flutter_packages
 
-[Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
-[awesome_dialog](https://pub.dev/packages/awesome_dialog)
+_[Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
+_[awesome_dialog](https://pub.dev/packages/awesome_dialog)
 [Flutter DropdownSearch](https://pub.dev/packages/dropdown_search)
+
 # Goole Maps
 [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator)
 [Flutter Geocoding Plugin](https://pub.dev/packages/geocoding)
