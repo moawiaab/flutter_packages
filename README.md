@@ -13,9 +13,9 @@
 - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
 - [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
 
-# - [Goole Maps](#)
-   - [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator)
-   - [Flutter Geocoding Plugin](https://pub.dev/packages/geocoding)
-   - [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter)
-   - [flutter_polyline_points](https://pub.dev/packages/flutter_polyline_points)
+# [Goole Maps](#)
+  - [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator)
+  - [Flutter Geocoding Plugin](https://pub.dev/packages/geocoding)
+  - [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter)
+  - [flutter_polyline_points](https://pub.dev/packages/flutter_polyline_points)
 
