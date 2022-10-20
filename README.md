@@ -17,3 +17,5 @@
 ## [Jiffy time](https://pub.dev/packages/jiffy)
 
 ## [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
+
+ [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
