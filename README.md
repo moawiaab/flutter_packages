@@ -12,6 +12,7 @@
 - [Jiffy time](https://pub.dev/packages/jiffy)
 - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
 - [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
+- [ persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)
 
 # [Goole Maps](#)
   - [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator)
